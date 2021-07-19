@@ -2,6 +2,8 @@
 
 <div align=center>
 
+![header](https://capsule-render.vercel.app/api?color=1a53ff&height=250&text=ADAMCYFFKA!&desc=Frontend-Backend-Developer&animation=fadeIn&fontColor=1C1C1C&fontSize=40&descSize=20)
+
 **Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">** <br />
 **👩🏻‍💻 I'm a Frontend-Backend Developer**
 
