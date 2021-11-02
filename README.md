@@ -2,19 +2,19 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?color=1a53ff&height=250&text=ADAMCYFFKA!&desc=Web-developer&animation=fadeIn&fontColor=1C1C1C&fontSize=40&descSize=20)
+![header](https://capsule-render.vercel.app/api?color=1a53ff&height=250&text=ADAMCYFFKA!&desc=Developer&animation=fadeIn&fontColor=1C1C1C&fontSize=40&descSize=20)
 
 **Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">** <br />
-**👩🏻‍💻 I'm a Frontend-Backend Developer**
+**👩🏻‍💻 I'm a Backend Developer and Gameplay Developer**
 
 <br />
 
 </div>
   
-Hi, i'm [Adam Cyffka](https://adamcyffka.fr/), a passionate full stack web developer and a freelance from France.
+Hi, i'm [Adam Cyffka](https://adamcyffka.fr/), a passionate full stack web developer, video game development and a freelance from France.
 
-- 🔭 I’m currently working at [Orange](https://github.com/Orange-OpenSource)
-- 🌱 I’m learning Typescript
+- 🔭 I’m currently studying at [Epitech](https://www.epitech.eu/)
+- 🌱 I’m learning Typescript & Unreal Engine 4
 - 💼 Any freelance work? Do reach, [email](mailto:adam.cyffka@epitech.eu) :)
 - 💬 Ask me about anything [here](https://github.com/AdamCyffka/AdamCyffka/issues)
 
