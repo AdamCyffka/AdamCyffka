@@ -22,19 +22,37 @@ Hi, i'm [Adam Cyffka](https://adamcyffka.fr/), a passionate full stack web devel
 
 <div align=center>
 
-## Contact.
-
-[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:adam.cyffka@epitech.eu)
-
-<br />
-
 ## Technical Stack.
 
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
-
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<br /><br />
+<img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+<br /><br />
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
+<br />
 <br />
 
 [![AdamCyffka's github stats](https://github-readme-stats.vercel.app/api?username=AdamCyffka&show_icons=true&theme=cobalt)](https://github.com/AdamCyffka/github-readme-stats)
+
+<br />
+
+## Portfolio.
+
+You can check my portfolio on my [Portfolio section](https://adamcyffka.fr/portfolio/) on my website.
+
+<br />
+
+## Contact.
+
+You can contact me by email with my email `adam.cyffka@epitech.eu` or from my [website](https://adamcyffka.fr/contact/)
+
+<br />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AdamCyffka.visitor-badge)
 
