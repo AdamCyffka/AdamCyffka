@@ -11,7 +11,7 @@
 
 </div>
   
-Hi, i'm [Adam Cyffka](https://adamcyffka.fr/), a passionate backend development and a video game development from France.
+Hi, i'm [Adam Cyffka](https://adamcyffka.fr/), a passionate backend development and a video game programming from France.
 
 - 🔭 I’m currently studying at [Epitech](https://www.epitech.eu/)
 - 🌱 I’m learning Typescript & Unreal Engine 4
