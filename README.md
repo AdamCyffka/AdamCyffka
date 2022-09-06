@@ -7,21 +7,6 @@
 **Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">** <br />
 **👩🏻‍💻 I'm a Game Programmer and Backend Programmer**
 
-<br />
-
-</div>
-  
-Hi, i'm [Adam Cyffka](https://adamcyffka.fr/), a passionate of video game programming from France.
-
-- 🔭 I’m currently studying at [Epitech](https://www.epitech.eu/)
-- 🌱 I’m learning Typescript & Unreal Engine 4
-- 💼 Any freelance work? Do reach, [email](mailto:adam.cyffka@epitech.eu) :)
-- 💬 Ask me about anything [here](https://github.com/AdamCyffka/AdamCyffka/issues)
-
-<br />
-
-<div align=center>
-
 ## Technical Stack.
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
