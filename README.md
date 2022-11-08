@@ -34,7 +34,7 @@ You can check my portfolio on my [Portfolio section](https://adamcyffka.fr/portf
 
 ## Contact.
 
-You can contact me by email with my email `adam.cyffka@epitech.eu` or from my [website](https://adamcyffka.fr/contact/)
+You can contact me by email with my email `adamcyffka62@gmail.com` or from my [website](https://adamcyffka.fr/contact/)
 
 <br />
 
